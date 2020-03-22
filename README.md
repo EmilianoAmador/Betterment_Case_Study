@@ -1,4 +1,5 @@
 # Case Study Company: Betterment
+**By Emiliano Amador**
 
 ## Overview and Origin
 
