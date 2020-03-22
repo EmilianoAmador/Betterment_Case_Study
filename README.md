@@ -14,7 +14,7 @@ The company was incorporated on August 2008 in Delaware but began operating out 
 
 The company founders are Jon Stein and Eli Broverman. Technically, Jon’s roommate, Sean Owen, also helped found the company; however, he opted out before the company could launch in 2010. 
 
-*How did the idea for the company come about?
+* How did the idea for the company come about?
 
 The idea for the company began with Jon Stein. He wanted to create an investing platform that was simple to use, efficient, and centered on customer needs. At the time, Jon was working as a product developer and risk manager for a large firm in wall street. He learned that many of these big investment firms were very inefficient in the way they handled portfolios and did not focus on their customer’s needs. He concluded that the traditional way of wealth management was limited due to their lack of technology, which prevented them from yielding optimized investment results for their customers. Jon was determined to innovate the industry by creating the first robo-advisor company.
 
